@@ -1,5 +1,5 @@
-%define namePackager Not Shure
-%define addressPackager notshure@localhost
+%define namePackager dnstels
+%define addressPackager dnstels@altlinux.org
 %define dateFormated Wed Oct 10 2012
 
 Name: hello
@@ -21,10 +21,7 @@ BuildRequires: gcc
 BuildArch: i586
 
 %description
-Hello, I love you,
-Won't you tell me your name?
-Hello, I love you,
-Let me jump in your game.
+Тестовая сборка пакета.
 
 %prep
 %setup
